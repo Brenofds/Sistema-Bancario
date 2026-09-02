@@ -1,0 +1,6 @@
+{
+  "name": "Finanças Smart",
+  "description": "Aplicativo para planejar orçamentos, faturas, alertas de gastos e categorização automática com IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
